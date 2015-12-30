@@ -1,0 +1,120 @@
+body {
+	 background-color: #E3E3E3 !important;
+ 	 padding-bottom: 40px;
+}
+label {
+	margin-left: 65px;
+	font-size: 11px;
+}
+span {
+	font-size: 11px;
+}
+h4 {
+	margin:-8px;
+}
+.marg1left { margin-left:1px; }
+.footerForm { 
+	padding-top: 18px;
+    text-align: center;
+    background: #ddd;
+}
+.form-signin {
+  max-width: 378px;  
+  margin: 0 auto;
+  display:block;
+  background-color: #fff;
+}
+.main{
+	padding: 38px;
+}
+.social-box{
+  margin: 0px auto;
+  text-align: center;
+}
+.social-box a{
+  font-weight:bold;
+  font-size:18px;
+  padding:8px;
+}
+.social-box a i{
+  font-weight:bold;
+  font-size:20px;
+}
+.heading{
+	font-size:20px;
+	text-align: center;
+	padding-top: 1px;
+}
+.heading-desc{
+	font-size:12px;
+	text-align: center;
+	color:#9F9A9A;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+ .form-control {
+  position: relative;
+  padding: 4px;
+  width: 286px;
+  margin: 10px 44px;
+  border-radius: 0px;
+  font-size: 12px;
+}
+ .form-control:focus {
+  z-index: 2;
+}
+.form-control input[type="text"] {
+  margin-bottom: 10px;
+}
+.form-control input[type="checkbox"] {
+  margin-bottom: 10px !Important;
+}
+.login-footer{
+	background:#f0f0f0;
+	margin: 0 auto;
+	border-top: 1px solid #dadada;
+	padding:20px;
+}
+.login-footer .left-section a{
+	font-weight:bold;
+	color:#8a8a8a;
+	line-height:19px;
+}
+ .line {
+	margin: 11px 0 0 49px;
+	overflow: hidden;
+	white-space: nowrap;
+	width: 278px;
+	font-size: 12px;
+	font-weight: bold;
+}
+.line:before,
+.line:after {
+  content: "";
+  position: relative;
+  display: inline-block;
+  width: 50%;
+  height: 1px;
+  vertical-align: middle;
+  background: #000;
+}
+.line:before {    
+  left: -10px;
+  margin: 0;
+  background:#BCB8B8;
+}
+.line:after {    
+  left: 10px;
+  margin: 0;
+  background:#BCB8B8;
+}
+#messages,#warning,#notification {
+	text-align: justify;
+	font-size: 13px;
+	margin-left: 45px;
+}
